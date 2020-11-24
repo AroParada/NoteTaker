@@ -44,8 +44,8 @@ Application should allow users to view previously saved notes.
 
 Application should allow users to delete previously saved notes.
 - - -
-<img src="\assets\Screenshot (88).png">
-<img src="\assets\Screenshot (89).png">
-<img src="\assets\Screenshot (90).png">
+<img src="assets\Screenshot (88).png">
+<img src="assets\Screenshot (89).png">
+<img src="assets\Screenshot (90).png">
 
 
